@@ -14,6 +14,8 @@ int main(int argc, char *argv[]) {
     printf("Direccion del puntero: %p\n", &puntero);
     printf("Tama%co del puntero: %d bits\n", 164, sizeof(puntero));
 
+    printf("\nUn exe para control .gitignore.\n");
+
 
     return 0;
 }
