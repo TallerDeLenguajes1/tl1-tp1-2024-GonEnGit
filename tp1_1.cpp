@@ -12,10 +12,7 @@ int main(int argc, char *argv[]) {
     printf("Direccion en el puntero: %p\n", puntero);
     printf("Direccion de la variable: %p\n", &numero);
     printf("Direccion del puntero: %p\n", &puntero);
-    printf("Tama%co del puntero: %d bits\n", 164, sizeof(puntero));
-
-    printf("\nUn exe para control .gitignore.-----\n");
-
+    printf("Tama%co del puntero: %d bits\n\n", 164, sizeof(puntero));
 
     return 0;
 }
